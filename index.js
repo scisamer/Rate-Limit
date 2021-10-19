@@ -14,8 +14,8 @@ app.listen(3000, () => {
 
 
 
-var inter = setInterval(() => {
-request('https://rate-limit.scisamer.repl.co', function (){});
-}, 7 * 1000 * 60);
 
+// var inter = setInterval(() => {
+// request('https://rate-limit.scisamer.repl.co', function (){});
+// }, 7 * 1000 * 60);
 
